@@ -3,8 +3,8 @@
 This project has been created for **Udacity** to complete a **Data Analyst** Nanodegree.
 
 ## About
-In this project, We analyzed and in Investigate in Movies Dataset `tmdb-movies.csv`, This data set contains information about 10,000 movies collected from The Movie Database (TMDb),
-including user ratings and revenue. I chose it to explore it in my project to Investigate dataset analysis.
+In this project, We analyzed and investigate in movies dataset `tmdb-movies.csv`, This data set contains information about 10,000 movies collected from **The Movie Database (TMDb)**,
+including user ratings and revenue. I chose it to explore it in my project to investigate dataset analysis.
 You can see more detail for this dataset in [kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
 ## Program & Library Used
