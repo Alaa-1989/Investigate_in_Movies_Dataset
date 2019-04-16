@@ -7,7 +7,7 @@ In this project, We analyzed and investigate in movies dataset `tmdb-movies.csv`
 including user ratings and revenue. I chose it to explore it in my project to investigate dataset analysis.
 You can see more detail for this dataset in [kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
-## Program & Library Used
+## Program & Libraries Used
 - Jupyter Notebook
 - Pandas library 
 - Numpy library
